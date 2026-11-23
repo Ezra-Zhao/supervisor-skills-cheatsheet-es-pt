@@ -1,5 +1,7 @@
 # 🎓 Guía rápida: Supervisor-Skills — un co-supervisor de IA para tu doctorado (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 Una sola página para trabajar con los *skills* de investigación de **Supervisor-Skills** (proyecto de HKUSTDial): del tema a la respuesta a los revisores, en el orden real del ciclo de vida de un paper.
 
 **Autor:** Ezra-Zhao · Octubre 2026
